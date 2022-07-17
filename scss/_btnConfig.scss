@@ -1,7 +1,6 @@
 @import "utilities";
 @import "config";
 
-
 %btn {
   display: inline-block;
   border-radius: 5px;
@@ -12,8 +11,6 @@
     transform: scale(.80);
   }
 }
-
-
 
 .btn-primary {
   @extend %btn;
